@@ -11,8 +11,8 @@ Search algorithms are fundamental to computer science and software development. 
 * Comparison of different search algorithms
 
 # Technologies Used
-*React.js: JavaScript library for building user interfaces
-*JavaScript: Programming language
-*Plotly.js: JavaScript library for data visualization
+* React.js: JavaScript library for building user interfaces
+* JavaScript: Programming language
+* Plotly.js: JavaScript library for data visualization
 # Results
 The results of the time complexity comparison are displayed visually using charts. Users can see how the number of operations increases with the size of the input array for each algorithm. This provides a clear understanding of the efficiency of each search method.
